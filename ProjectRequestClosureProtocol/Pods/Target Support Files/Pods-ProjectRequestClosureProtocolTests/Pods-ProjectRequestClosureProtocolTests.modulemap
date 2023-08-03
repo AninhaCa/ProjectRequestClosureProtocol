@@ -1,0 +1,6 @@
+framework module Pods_ProjectRequestClosureProtocolTests {
+  umbrella header "Pods-ProjectRequestClosureProtocolTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_ProjectRequestClosureProtocol {
+  umbrella header "Pods-ProjectRequestClosureProtocol-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_ProjectRequestClosureProtocol_ProjectRequestClosureProtocolUITests : NSObject
+@end
+@implementation PodsDummy_Pods_ProjectRequestClosureProtocol_ProjectRequestClosureProtocolUITests
+@end
